@@ -1,10 +1,20 @@
 # Design
 
+## CAD
 <img width="1136" height="634" alt="Screenshot 2026-04-02 125531" src="https://github.com/user-attachments/assets/c658bb70-4bf2-49ae-a37d-09abddedd273" />
 <img width="1180" height="619" alt="Screenshot 2026-04-02 125512" src="https://github.com/user-attachments/assets/3ec3b3fd-fed8-4020-8ce3-0562572a43f7" />
+The microphone shell was designed in onshape. The step file will be included in the repo. 
+
+
+## PCB
 <img width="1031" height="788" alt="Screenshot 2026-04-02 125434" src="https://github.com/user-attachments/assets/e96eb1cd-b5ef-4b2f-8962-265949b7751f" />
 <img width="1309" height="439" alt="Screenshot 206-04-02 125303" src="https://github.com/user-attachments/assets/e7664adc-c35f-4d65-af02-830ec2c799dd" />
 <img width="1382" height="445" alt="Screenshot 2026-04-02 124855" src="https://github.com/user-attachments/assets/fe09349e-a938-426e-aa9d-76eba6ccd450" />
+
+The components on the left of the PCB are the complementary components for the [microphone capsule](https://www.digikey.co.uk/en/products/detail/primo-company-limited/EM415N/25873214). see the [datasheet](https://www.primocorp.co.jp/product-corp/fileview/30/EM415N.pdf) for more details
+The capacitors on the right of the schematic are buffering capacitors used to reduce transient voltage spikes and smooth out the voltage.
+
+The EasyEDA files for the PCB will be included in the repo
 
 # BOM
 
