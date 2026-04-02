@@ -3,7 +3,7 @@
 ## CAD
 <img width="1136" height="634" alt="Screenshot 2026-04-02 125531" src="https://github.com/user-attachments/assets/c658bb70-4bf2-49ae-a37d-09abddedd273" />
 <img width="1180" height="619" alt="Screenshot 2026-04-02 125512" src="https://github.com/user-attachments/assets/3ec3b3fd-fed8-4020-8ce3-0562572a43f7" />
-The microphone shell was designed in onshape. The step file will be included in the repo. 
+The microphone shell was designed in onshape. The step file are included in the repo. I also added STLs for 3D printing (material types are mentioned in the file names)
 
 
 ## PCB
