@@ -1,5 +1,10 @@
 # Design
 
+<img width="1136" height="634" alt="Screenshot 2026-04-02 125531" src="https://github.com/user-attachments/assets/c658bb70-4bf2-49ae-a37d-09abddedd273" />
+<img width="1180" height="619" alt="Screenshot 2026-04-02 125512" src="https://github.com/user-attachments/assets/3ec3b3fd-fed8-4020-8ce3-0562572a43f7" />
+<img width="1031" height="788" alt="Screenshot 2026-04-02 125434" src="https://github.com/user-attachments/assets/e96eb1cd-b5ef-4b2f-8962-265949b7751f" />
+<img width="1309" height="439" alt="Screenshot 206-04-02 125303" src="https://github.com/user-attachments/assets/e7664adc-c35f-4d65-af02-830ec2c799dd" />
+<img width="1382" height="445" alt="Screenshot 2026-04-02 124855" src="https://github.com/user-attachments/assets/fe09349e-a938-426e-aa9d-76eba6ccd450" />
 
 # BOM
 
@@ -8,6 +13,8 @@
 | Microphone arm | 18.63$ | 1 | [Aliexpress](https://www.aliexpress.com/item/1005007097415626.html?spm=a2g0o.cart.0.0.5cc338dadaYcHK&mp=1&pdp_npi=6%40dis%21USD%21USD%2019.82%21USD%2018.63%21%21USD%2018.63%21%21%21%40211b80f717751297886618414e93eb%2112000056010576149%21ct%21UK%214617185825%21%211%210%21) |
 | Foam Windscreen | 6.00$ | 1 | [Aliexpress](https://www.aliexpress.com/item/1005009561527498.html?spm=a2g0o.productlist.main.16.477fe533sd0Kow&algo_pvid=e2f2edab-4be3-4773-93d4-60ee0e0f2838&aem_p4p_detail=202604010629124364545112152100001619661&algo_exp_id=e2f2edab-4be3-4773-93d4-60ee0e0f2838-15&pdp_ext_f=%7B%22order%22%3A%2255%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%215.12%214.81%21%21%216.58%216.18%21%402103846917750501522426650e7109%2112000049466405873%21sea%21UK%214617185825%21X%211%210%21n_tag%3A-29919%3Bd%3Ad87f1b19%3Bm03_new_user%3A-29895%3BpisId%3A5000000203423557&curPageLogUid=8va68lgm0drq&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009561527498%7C_p_origin_prod%3A&search_p4p_id=202604010629124364545112152100001619661_4) |
 | Microphone Capsule | 21.63$ | 1 | [DigiKey](https://www.digikey.co.uk/en/products/detail/primo-company-limited/EM415N/25873214) |
+
+Other component were also used. This inmcludes capacitors, resistors and an aux port
 
 # Journal
 
