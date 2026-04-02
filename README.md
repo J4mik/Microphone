@@ -57,6 +57,8 @@ Rerouted the PCB so that connections are more direct and follow straight lines. 
 
 ![image](https://stasis.hackclub-assets.com/images/1775053516647-crvrvr.png)
 
+I added a chamfer to the front of the shell so the windscreen will fit easier
+
 edit: I realised I don't need the USB-C to USB-C converter or USB-C to aux 3.5mm as most audio cards will solve all of my issues, I also realised the some audio cards have power delivery through the aux cable. this will mean I will be unable to add an external volume knob, however that is ok because the project complexity will be much lower
 
 ## 4/1/2026 - Designed the microphone shell
