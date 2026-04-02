@@ -1,7 +1,12 @@
-Design
+# Design
 
 
+# BOM
 
+| item | price | quantity | link |
+| ---- | ----- | -------- | ---- |
+| Microphone arm | 18.63$ | 1 |  |
+| Foam Windscreen | 6.00$ | 1 |  |
 
 # Journal
 
