@@ -1,3 +1,7 @@
+# Overview
+
+The microphone is a pretty cheap alternative to some cometial microphones (around 30-40$ + delivery) It's a compromise between 3D printed parts and of-the-shelf parts. It should produce a nice sound profile
+
 # Design
 
 ## CAD
