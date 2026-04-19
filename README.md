@@ -2,6 +2,18 @@
 
 The microphone is a pretty cheap alternative to some cometial microphones (around 30-40$ + delivery) It's a compromise between 3D printed parts and of-the-shelf parts. It should produce a nice sound profile
 
+# build
+
+<img width="4000" height="1792" alt="IMG_20260419_094100" src="https://github.com/user-attachments/assets/0f2cc136-4caa-4194-8dc1-121306ae1de9" />
+<img width="4000" height="1792" alt="IMG_20260419_094106" src="https://github.com/user-attachments/assets/89ec2e47-b43c-4818-b2c4-703e83adc014" />
+<img width="1511" height="1512" alt="IMG_20260419_094118" src="https://github.com/user-attachments/assets/1f4c0469-9045-41ff-9f9b-feadd78445b8" />
+<img width="1792" height="4000" alt="IMG_20260419_094123" src="https://github.com/user-attachments/assets/ee422110-9d35-4861-ab64-1685cdc0d25b" />
+<img width="4000" height="1792" alt="IMG_20260419_094132" src="https://github.com/user-attachments/assets/c91b526c-ff20-4363-9137-f0b9497413ed" />
+The main shell was printed from PETG to act as a shock absorber, the capsule holder from TPU to act as a shock absorber.
+I added a DIY metal mesh to act as shielding since I found that the mic picked up 50Hz from the mains.
+I also redesigned the main enclosure, The new step file is included in the repo
+<img width="849" height="461" alt="image" src="https://github.com/user-attachments/assets/3d6410dc-ec48-421f-808e-e05aed51f5f1" />
+
 # Design
 
 ## CAD
